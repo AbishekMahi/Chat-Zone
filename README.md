@@ -1,4 +1,4 @@
-# chat_app_1
+# Chat Zone
 
 A new Flutter project.
 
