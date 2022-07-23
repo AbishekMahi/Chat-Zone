@@ -80,13 +80,6 @@ class _HomePageState extends State<HomePage> {
         body: SafeArea(
           child: Column(
             children: [
-              // Text(
-              //   'Signed in as ${user.email!}',
-              //   style: GoogleFonts.comfortaa(
-              //       fontSize: 16,
-              //       fontWeight: FontWeight.w500,
-              //       color: const Color.fromARGB(255, 255, 255, 255)),
-              // ),
               Column(
                 children: [
                   Padding(
