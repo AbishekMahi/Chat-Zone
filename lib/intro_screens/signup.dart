@@ -104,7 +104,6 @@ class _SignupState extends State<Signup> {
                             fontWeight: FontWeight.w500,
                             height: 1.5,
                             color: const Color.fromARGB(255, 255, 255, 255)),
-                        // color: Color(0xFF2CC5B5)),
                       ),
                       const SizedBox(
                         height: 10,
